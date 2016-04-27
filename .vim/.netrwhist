@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/Users/Gabriel/Documents/web/node/Chat2/routes'
+let g:netrw_dirhist_2='/Users/Gabriel/Documents/code/RayTracer2/img'
+let g:netrw_dirhist_3='/Users/Gabriel/vsftpd@127.0.0.1'
+let g:netrw_dirhist_4='/Users/Gabriel/Documents/cs161/Projects/proj1'
+let g:netrw_dirhist_5='/Users/Gabriel/.dtella'
+let g:netrw_dirhist_6='/Users/Gabriel/Desktop'
+let g:netrw_dirhist_7='/Users/Gabriel/project2'

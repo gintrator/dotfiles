@@ -1,0 +1,18 @@
+alias tnew="tmux new -s"
+alias tjoin="tmux a -t"
+alias tlist="tmux list-sessions"
+alias tkill="tmux kill-session -t"
+
+alias la='ls -a'
+alias ll='ls -alh'
+
+alias cls="clear"
+
+alias g="git"
+alias gt="git status"
+alias gd="git diff"
+alias gh="git hist -20"
+alias gc="git commit -a"
+alias gr="git reset"
+alias gs="git status"
+alias gl="git log"
